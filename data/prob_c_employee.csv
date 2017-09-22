@@ -1,0 +1,7 @@
+FirstName,LastName,ID,HireDate,TerminationDate,Salary
+Bob,Smith,1,2009-06-20,2016-01-01,10000
+Joe,Jarrod,2,2010-02-12,NULL,20000
+Nancy,Soley,3,2012-03-14,NULL,30000
+Keith,Widjaja,4,2013-09-10,2014-01-01,20000
+Kelly,Smalls,5,2013-09-10,NULL,20000
+Frank,Nguyen,6,2015-04-10,2015-05-01,60000
